@@ -26,7 +26,7 @@ namespace FlyWeight
             buildingpasport bp = new buildingpasport() { };
             if (_pasport.Contains(bp))
             {
-                return _pasport.First(p => p.GetHashCode("bp"));
+                return _pasport.First(p => p.GetHashCode()== bp.GetHashCode());
             }
             else
             {
@@ -65,6 +65,8 @@ namespace FlyWeight
             factorypasport pf = new factorypasport();
             Building b1 = new Building(pf, 1, 10, 100, "Consern");
             buildingpasport p = new buildingpasport();
+
+            Console.WriteLine(b1);
          
         }
     }

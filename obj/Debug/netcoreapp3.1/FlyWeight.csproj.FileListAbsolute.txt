@@ -2,3 +2,11 @@
 /Users/abylai/Projects/FlyWeight/FlyWeight/obj/Debug/netcoreapp3.1/FlyWeight.csproj.CoreCompileInputs.cache
 /Users/abylai/Projects/FlyWeight/FlyWeight/obj/Debug/netcoreapp3.1/FlyWeight.AssemblyInfoInputs.cache
 /Users/abylai/Projects/FlyWeight/FlyWeight/obj/Debug/netcoreapp3.1/FlyWeight.AssemblyInfo.cs
+/Users/abylai/Projects/FlyWeight/FlyWeight/bin/Debug/netcoreapp3.1/FlyWeight.deps.json
+/Users/abylai/Projects/FlyWeight/FlyWeight/bin/Debug/netcoreapp3.1/FlyWeight.runtimeconfig.json
+/Users/abylai/Projects/FlyWeight/FlyWeight/bin/Debug/netcoreapp3.1/FlyWeight.runtimeconfig.dev.json
+/Users/abylai/Projects/FlyWeight/FlyWeight/bin/Debug/netcoreapp3.1/FlyWeight.dll
+/Users/abylai/Projects/FlyWeight/FlyWeight/bin/Debug/netcoreapp3.1/FlyWeight.pdb
+/Users/abylai/Projects/FlyWeight/FlyWeight/obj/Debug/netcoreapp3.1/FlyWeight.dll
+/Users/abylai/Projects/FlyWeight/FlyWeight/obj/Debug/netcoreapp3.1/FlyWeight.pdb
+/Users/abylai/Projects/FlyWeight/FlyWeight/obj/Debug/netcoreapp3.1/FlyWeight.genruntimeconfig.cache
